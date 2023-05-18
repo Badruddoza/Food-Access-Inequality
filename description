@@ -1,0 +1,14 @@
+REGIONAL PREDICTORS OF THE ESTABLISHMENT, CLOSURE, AND RELOCATION OF FOOD RETAILERS IN THE LONG RUN
+
+Syed Badruddoza1, Modhurima Dey Amin1, Jill McCluskey2, and Wilson Sinclair3
+
+
+Abstract
+
+We used machine learning models to analyze the factors influencing the location decisions of food retailers across the United States from 2011 to 2019. We examined both short-run and long-run establishments of 13 different food store types and considered 35 socioeconomic predictors at the census tract level. Our findings revealed that the growth rates of food store establishments varied depending on the store type and time period. Convenience stores, fast-food restaurants, and dollar stores were more likely to experience higher growth in areas with a higher proportion of Black population, while grocery stores showed lower establishment rates in these areas. Additionally, areas with higher levels of petty crime had fewer overall store establishments, but convenience stores, dollar stores, and fast-food restaurants had higher growth rates in high crime areas compared to grocery stores. Tracts with higher median household income witnessed greater expansion across all store types. Key predictors for food store establishments included the presence of full-service restaurants, percentage of rural population, presence of specialty food stores, and demographic factors. These findings emphasize the concentration effect and provide valuable insights for decision-making and resource allocation to meet the needs of communities.
+
+Keywords: Food retailers, location decisions, machine learning, nutritional inequality, United States
+JEL codes: I14; Q18; L81. 
+
+
+Disclaimer: This research was supported [in part] by the U.S. Department of Agriculture, Economic Research Service. The findings and conclusions in this publication are those of the author(s) and should not be construed to represent any official USDA or U.S. Government determination or policy. This study was supported in part by the US Department of Agriculture, Economic Research Service. The views expressed here cannot be attributed to the Coleridge Initiative.
